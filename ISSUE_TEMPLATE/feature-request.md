@@ -1,3 +1,11 @@
+---
+name: Feature Request
+about: Suggest an idea for this project
+title: "[Feature]: "
+labels: feature
+assignees: ''
+---
+
 ## 기능 설명
 - **기능 이름**: 
 - **기능 설명**: 

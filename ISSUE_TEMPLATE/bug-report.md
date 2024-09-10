@@ -1,3 +1,10 @@
+---
+name: Bug Report
+about: Create a report to help us improve
+title: "[Bug]: "
+labels: bugfix
+assignees: ''
+---
 ## 버그 설명
 - **버그 요약**: 
 - **발생 빈도**: 
